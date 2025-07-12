@@ -26,6 +26,7 @@ namespace SafeAndSound
             "SafeAndSound",
             "Summer",
             "TeenageDream",
+            "TikTok",
             "Umbrella"
         };
         
