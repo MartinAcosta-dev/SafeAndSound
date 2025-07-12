@@ -16,6 +16,7 @@ namespace SafeAndSound
             "BadRomance",
             "CallMeMaybe",
             "CountingStars",
+            "DieYoung",
             "FeelThisMoment",
             "Firework",
             "HotNCold",
